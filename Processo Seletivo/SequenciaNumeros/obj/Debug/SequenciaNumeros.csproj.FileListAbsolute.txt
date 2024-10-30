@@ -1,0 +1,14 @@
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\SalárioHorista\SequenciaNumeros\bin\Debug\SequenciaNumeros.exe.config
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\SalárioHorista\SequenciaNumeros\bin\Debug\SequenciaNumeros.exe
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\SalárioHorista\SequenciaNumeros\bin\Debug\SequenciaNumeros.pdb
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\SalárioHorista\SequenciaNumeros\obj\Debug\SequenciaNumeros.csproj.AssemblyReference.cache
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\SalárioHorista\SequenciaNumeros\obj\Debug\SequenciaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\SalárioHorista\SequenciaNumeros\obj\Debug\SequenciaNumeros.exe
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\SalárioHorista\SequenciaNumeros\obj\Debug\SequenciaNumeros.pdb
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\Processo Seletivo\SequenciaNumeros\bin\Debug\SequenciaNumeros.exe.config
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\Processo Seletivo\SequenciaNumeros\bin\Debug\SequenciaNumeros.exe
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\Processo Seletivo\SequenciaNumeros\bin\Debug\SequenciaNumeros.pdb
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\Processo Seletivo\SequenciaNumeros\obj\Debug\SequenciaNumeros.csproj.AssemblyReference.cache
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\Processo Seletivo\SequenciaNumeros\obj\Debug\SequenciaNumeros.csproj.CoreCompileInputs.cache
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\Processo Seletivo\SequenciaNumeros\obj\Debug\SequenciaNumeros.exe
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\Processo Seletivo\SequenciaNumeros\obj\Debug\SequenciaNumeros.pdb

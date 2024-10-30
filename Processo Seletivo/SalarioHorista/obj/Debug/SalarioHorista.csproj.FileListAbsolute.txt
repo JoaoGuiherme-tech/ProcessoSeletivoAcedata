@@ -1,0 +1,7 @@
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\Processo Seletivo\SalarioHorista\bin\Debug\SalarioHorista.exe.config
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\Processo Seletivo\SalarioHorista\bin\Debug\SalarioHorista.exe
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\Processo Seletivo\SalarioHorista\bin\Debug\SalarioHorista.pdb
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\Processo Seletivo\SalarioHorista\obj\Debug\SalarioHorista.csproj.AssemblyReference.cache
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\Processo Seletivo\SalarioHorista\obj\Debug\SalarioHorista.csproj.CoreCompileInputs.cache
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\Processo Seletivo\SalarioHorista\obj\Debug\SalarioHorista.exe
+C:\Users\jguil\OneDrive\Desktop\Códigos\C#\Processo Seletivo\SalarioHorista\obj\Debug\SalarioHorista.pdb
